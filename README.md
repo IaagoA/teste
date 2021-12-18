@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head
-<title>TESTE</title>
+<title> TESTE </title>
 </head>
 <body>
 <h1>Esse repositório é apenas um teste</h1>
