@@ -2,7 +2,7 @@
 <html>
 <head
 <title> TESTE
-<img align = "right" alt = "GIF" src = "https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width = "100vw" />
+<img align = "right" alt = "GIF" src = "https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width = "80vw" />
 </head>
 <body>
 <h1>Esse repositório é apenas um teste</h1>
