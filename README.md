@@ -9,3 +9,5 @@
  <h2> Este repositório contém uma pasta de html e css</h2>
 <p>Estou praticando html e css por enquanto ambos basico, estou partindo para o intermediario, mas tbm pretendo estudar outras linguagens de programaçao como JavaScript e Python.</p>
 <p>Mais para frente irei lançando projetos práticos que estarei aprendendo de pouco em pouco.</p>
+
+<a href=('https://wa.me//5511947941404')>entre em contato cmg</a>
